@@ -130,7 +130,7 @@
       <div>
       <img src="{{url($logo)}}" class="rounded-full" height="50" width="50">
     
-       <b class="font-black">{{$sirket}}fffffff</b>
+       <b class="font-black">{{$sirket}}</b>
       </div>
     </div>
     <!---SCROLL kodu------------>
